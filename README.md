@@ -7,13 +7,12 @@ Currently learning and building interactive web applications using **Java Servle
 - Java (Servlets, JSP)
 - HTML / CSS / JavaScript
 - MySQL
-- Eclipse / NetBeans
+-  NetBeans
 - Git & GitHub
 
 ## 🌱 Currently Learning
 - Full-stack web development
-- Spring Boot
-- REST APIs
+
 
 
 
