@@ -15,13 +15,11 @@ Currently learning and building interactive web applications using **Java Servle
 - Spring Boot
 - REST APIs
 
-## 🚀 Projects
-- **Student Management System** – A servlet-based app for managing student data.
-- **Football Score Predictor** – A betting app that predicts football game outcomes.
+
 
 ## 📫 Contact Me
-- 📧 Email: yourname@example.com
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📧 Email: pholosho204@gmail.com
+
 
 ---
 
