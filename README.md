@@ -19,7 +19,3 @@ Currently learning and building interactive web applications using **Java Servle
 ## 📫 Contact Me
 - 📧 Email: pholosho204@gmail.com
 
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
