@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Pholosho
 
-<!--
-**Pholosho204/Pholosho204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **web developer** and **Java enthusiast** from South Africa.  
+Currently learning and building interactive web applications using **Java Servlets**, **HTML**, and **CSS**.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Java (Servlets, JSP)
+- HTML / CSS / JavaScript
+- MySQL
+- Eclipse / NetBeans
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Full-stack web development
+- Spring Boot
+- REST APIs
+
+## 🚀 Projects
+- **Student Management System** – A servlet-based app for managing student data.
+- **Football Score Predictor** – A betting app that predicts football game outcomes.
+
+## 📫 Contact Me
+- 📧 Email: yourname@example.com
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
